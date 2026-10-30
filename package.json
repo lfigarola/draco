@@ -1,0 +1,11 @@
+{
+  "name": "draco-tech-solutions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Draco Tech Solutions company website",
+  "scripts": {
+    "dev": "node scripts/serve.cjs",
+    "build": "node scripts/build.cjs",
+    "check": "node scripts/check.cjs"
+  }
+}
